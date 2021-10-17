@@ -1,6 +1,4 @@
-//Christopher Mathew
-//Student ID: 2240760
-//BEng Mechatronic and Robotic Engineering
+
 #include <stdio.h>
 #include <math.h>
 int main(void)
