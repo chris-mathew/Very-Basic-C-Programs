@@ -1,5 +1,4 @@
-//Student ID: 2240760
-//BEng Mechatronic and Robotic Engineering
+
 #include <stdio.h>
 #include <string.h>
 #include <stdlib.h>
