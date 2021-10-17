@@ -1,6 +1,4 @@
-//Christopher Mathew
-//Student ID: 2240760
-//BEng Mechatronic and Robotic Engineering
+
 #include <stdio.h>
 #include <math.h> //The absolute value function is required in the program
 #define Lbolt 50 //The constants are defined here since it would be easier to change it here than going through each function.
